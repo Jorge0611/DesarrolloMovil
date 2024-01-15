@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "657458233500",
+    "project_id": "multi-store-app-ffe5d",
+    "storage_bucket": "multi-store-app-ffe5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657458233500:android:db791f7d4d52f31a56ad59",
+        "android_client_info": {
+          "package_name": "com.example.multi_store_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzaeVvgqI8h8p3242nZHPtc6Vb-zdQB5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

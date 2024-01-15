@@ -1,0 +1,17 @@
+{
+  "name": "backenddeliveryudemymysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JOnathan\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[o\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C Goyes",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1"
+  }
+}
