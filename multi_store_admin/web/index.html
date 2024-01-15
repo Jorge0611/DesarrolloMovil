@@ -55,5 +55,30 @@
       });
     });
   </script>
+  
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase_storage.js"></script>
+
+
+  <script type="module">
+    // Import the functions you need from the SDKs you need
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js";
+    // TODO: Add SDKs for Firebase products that you want to use
+    // https://firebase.google.com/docs/web/setup#available-libraries
+  
+    // Your web app's Firebase configuration
+    const firebaseConfig = {
+      apiKey: "AIzaSyDXDw-kW3MYDZRBK-OB8x_UQROnxiBIMlY",
+      authDomain: "multi-store-app-ffe5d.firebaseapp.com",
+      projectId: "multi-store-app-ffe5d",
+      storageBucket: "multi-store-app-ffe5d.appspot.com",
+      messagingSenderId: "657458233500",
+      appId: "1:657458233500:web:a247138f4855d5e156ad59"
+    };
+  
+    // Initialize Firebase
+    const app = initializeApp(firebaseConfig);
+  </script>
 </body>
 </html>
