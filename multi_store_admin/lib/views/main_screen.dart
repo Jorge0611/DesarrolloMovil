@@ -85,6 +85,10 @@ class _MainScreenState extends State<MainScreen> {
               title: 'Upload Banner',
               route: UploadBannerScreen.screenRoute,
               icon: Icons.upload),
+          AdminMenuItem(
+              title: 'Categories',
+              route: CategoriesScreen.screenRoute,
+              icon: Icons.category),
         ],
         selectedRoute: '',
         onSelected: (item) {
